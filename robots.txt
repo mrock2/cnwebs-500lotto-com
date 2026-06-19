@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrock2.github.io/cnwebs-500lotto-com/sitemap.xml
